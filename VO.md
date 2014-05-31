@@ -1,3 +1,3 @@
-# More and Less Virtual Observatories
+# The Internet as an Observaotry
 
 Gray & Szalay
