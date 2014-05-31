@@ -1,0 +1,1 @@
+What famous observatory is more important than any other, yet has no lens, and no mirror?  Is it Claudius Ptolemy's  at Alexandria in the 2nd century AD?  Maybe Uraniborg or Stjerneborg built by Tycho Brahe using 1% of the GDP of Denmark in the the 16th century?  No, not one of those.  The answer is a creation of the 20th century: the internet. 
