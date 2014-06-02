@@ -1,1 +1,1 @@
-# WWT on Big, Curved, Screens (Planetarium Show Anyone?)
+# Planetarium Show Anyone?
