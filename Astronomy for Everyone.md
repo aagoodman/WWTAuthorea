@@ -1,1 +1,1 @@
-# Astronomy for Everyone
+# WWT Everywhere
