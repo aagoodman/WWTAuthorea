@@ -1,3 +1,3 @@
-# The Internet as an Observaotry
+# How the Internet Became an Observatory
 
 Gray & Szalay
