@@ -3,3 +3,4 @@ Internet as Observatory.md
 The Universe Project.md
 figures/screenshot1/screenshot1.jpg
 WorldWide Telescope in Education.md
+WWT in Research.md
