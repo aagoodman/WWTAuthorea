@@ -6,3 +6,4 @@ WWT Everywhere.md
 WWT in Research.md
 figures/adsass_oph/adsass_oph.jpg
 WWT in Education.md
+Tours.md
