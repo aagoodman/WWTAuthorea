@@ -1,1 +1,1 @@
-# "Seamless" Astronomy Resaerch
+# "Seamless" Astronomy Research
