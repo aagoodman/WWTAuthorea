@@ -1,1 +1,1 @@
-# WorldWide Telescope in Education
+# Revolutionizing Education
