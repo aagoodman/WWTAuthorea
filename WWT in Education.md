@@ -4,4 +4,4 @@ explain Ambassadors program & what goes on in schools... maybe even mention that
 
 mention HarvardX
 
-this is a test of Gitub
+explain that PhD-level only needed in-classroom, not to make tours
